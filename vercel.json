@@ -1,0 +1,36 @@
+{
+  "rewrites": [
+    {
+      "source": "/company/about",
+      "destination": "/company/about.html"
+    },
+    {
+      "source": "/company/contact",
+      "destination": "/company/contact.html"
+    },
+    {
+      "source": "/company/projects/all-projects",
+      "destination": "/company/projects/all-projects.html"
+    },
+    {
+      "source": "/company/projects/jadav-residence",
+      "destination": "/company/projects/jadav-residence.html"
+    },
+    {
+      "source": "/company/projects/la-palazzo",
+      "destination": "/company/projects/la-palazzo.html"
+    },
+    {
+      "source": "/company/projects/maison-325",
+      "destination": "/company/projects/maison-325.html"
+    },
+    {
+      "source": "/company/projects/the-home-lounge",
+      "destination": "/company/projects/the-home-lounge.html"
+    },
+    {
+      "source": "/company/projects/the-lakefront-residence",
+      "destination": "/company/projects/the-lakefront-residence.html"
+    }
+  ]
+}
