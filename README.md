@@ -45,20 +45,6 @@ company/
 - Webflow (design platform)
 - Finsweet CMS Library
 - Luxy.js (parallax scrolling)
-
-## Contact
-
-- **Phone**: 966377077
-- **Email**: lasyaumesh@beveledge.in
-- **Address**: Prestige Central, 36, Infantry Road, Tasker Town, Shivaji Nagar, Bengaluru - 560001
-- **Hours**: 10:30 - 6:30 (Monday to Friday)
-
-## Follow Us
-
-- [Facebook](https://www.facebook.com/share/t2f5Mhbh1wrXS5f1/?mibextid=LQQJ4d)
-- [LinkedIn](https://www.linkedin.com/company/beveledge-interior-design-studio/)
-- [Instagram](https://www.instagram.com/beveledge.design/)
-
 ## License
 
 All rights reserved © 2026 Beveledge Interior Design Studio
